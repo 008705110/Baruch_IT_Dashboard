@@ -1,10 +1,14 @@
 import "./list.scss"
-
+import {useState} from "react"
 
 const List = () => {
+    
+
+        
+    
     return (
         <div className="list">
-            List
+            <button onClick>fdsdsd</button>
 
         </div>
     )
